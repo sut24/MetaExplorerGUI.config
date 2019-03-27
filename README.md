@@ -1,0 +1,1 @@
+# MetaExplorerGUI.config
